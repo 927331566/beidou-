@@ -1,7 +1,0 @@
-platform :ios, ‘8.0’
-target 'VoluntaryBest’ do
-pod 'SDWebImage'
-pod 'Masonry'
-pod 'JSONModel' 
-pod 'FMDB'
-end
